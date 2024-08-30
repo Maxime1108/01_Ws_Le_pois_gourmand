@@ -1,0 +1,25 @@
+body {
+  background-color: #a9f0d1;
+  font-family: "Srisakdi", cursive;
+}
+.content-wrapper {
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 900px;
+  margin: auto;
+}
+.card-title {
+  font-size: 1.5rem;
+}
+.btn-choose {
+  width: 100%;
+}
+.icon {
+  color: #6c9986;
+}
+.container {
+  padding-top: 50px;
+}
